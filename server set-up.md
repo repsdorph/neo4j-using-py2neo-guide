@@ -1,4 +1,5 @@
-** How to set up the server **
+# How to set up the server
+
 This describs how I've set up the server. As an example throuout this guide, we will work on an Amazone M3.medium serve
 (link-to-server) who has the following specifications:
 - OS: Ubuntu
