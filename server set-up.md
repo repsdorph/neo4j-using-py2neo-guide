@@ -1,11 +1,13 @@
 How to set up the server
 ======
 
-This describs how I've set up the server. As an example throuout this guide, we will work on an Amazone M3.medium serve
+This describs how I've set up the server. As an example throuout this guide, we will work on an Amazone M3.large serve
 (link-to-server) who has the following specifications:
 - OS: Ubuntu
-- RAM: 8GB
-- # of CPU: 2
+- Mem (GiB): 7.5GB
+- vCPU: 2
+- SSD Storage (GB): 1 x 32
+http://aws.amazon.com/ec2/instance-types/
 
 File input
 ----------
