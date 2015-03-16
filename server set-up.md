@@ -12,7 +12,9 @@ File input
 
 http://neo4j.com/docs/stable/linux-performance-guide.html#_setting_the_number_of_open_files
 
--- Configuration of RAM --
+Configuration of RAM
+--------------------
+
 http://neo4j.com/docs/stable/server-performance.html
 http://stackoverflow.com/questions/24862445/neo4j-cpu-stuck-on-gc
 
@@ -20,6 +22,7 @@ Garbage collection
 ------------------
 
 It might be a good idea to use some other GC than the default. (Find article and so on)
+http://stackoverflow.com/questions/24862445/neo4j-cpu-stuck-on-gc
 
 Threads
 -------
