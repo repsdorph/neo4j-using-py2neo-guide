@@ -4,7 +4,7 @@ This is going to be my guide with all the findings i get about hosting a <a href
 The reasom for making it on github, is both to share, and have other pitch in with better ideas and ways of doing stuff.. :-)
 
 # TODO
-* [] How to set up the servre
-* [] Write to Neo4J with Py2Neo
-* [] Read from Neo4J with Py2Neo
-* [] Toturials
+- [] How to set up the servre
+- [] Write to Neo4J with Py2Neo
+- [] Read from Neo4J with Py2Neo
+- [] Toturials
