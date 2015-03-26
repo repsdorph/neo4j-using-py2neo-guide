@@ -1,3 +1,5 @@
+NOTE: THIS IS UNDER DEVELOPMENT, AND A LOT OF COPY/PASTE, SOURCE IS GIVEN WHEN POSSIBLE.
+
 # neo4j-using-py2neo-guide
 This is going to be my guide with all the findings i get about hosting a <a href="http://neo4j.com">Neo4J</a> server, and interacting wit it via <a href="http://py2neo.org">Py2Neo</a>. It is also going to include some pratical examples of the bedst pratic I've found.
 
